@@ -1,9 +1,9 @@
 # Hello! 👋
 
 ## My name is Danila
-## I am a python backend developer.
+## I am a python developer.
 
-### Welcome to my repository! Here I share my projects, research and experiments.
+## Welcome to my repository! Here I share my projects, research and experiments.
 
 ## My technology stack:
 
