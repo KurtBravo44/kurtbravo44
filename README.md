@@ -21,6 +21,7 @@
 - Mailing service: [Click!](https://github.com/KurtBravo44/mailing_service)
 - Learning management system: [Click!](https://github.com/KurtBravo44/-LMS)
 - Habit Tracker: [Click!](https://github.com/KurtBravo44/habit_tracker)
+- Marketplace (DRF/React): [Click!](https://github.com/KurtBravo44/marketplace_backend_react)
 
 
 Thanks for stopping by! 🚀
